@@ -1,0 +1,21 @@
+pandas me permite trabajar con estructuras de 2 dimensiones 
+series 1 dimension 
+dataframe que tiene 2 dimensiones
+
+matplotlib libreria 
+para crear graficos 
+
+streamlit - hacer graficos y visualizarlos en una pagina web
+
+numpy libreria necesaria para trabajar con deeplearning y machine learning 
+
+scikit learn y tensorflow para creacion de modelos predictivos
+
+manus ia para generar codigos, es mejor que chatgpt 
+deepseek otra ia 
+
+fichero jupyter ejecuta codigos por celda 
+el fichero texto no ejecuta nada 
+y el fichero python file ejecuta todo el codigo a la vez 
+
+
