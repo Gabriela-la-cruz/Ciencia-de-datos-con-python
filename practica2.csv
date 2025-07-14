@@ -1,0 +1,70 @@
+;Ship Country;Category;Amount
+0;Austria;Beverages;860.8
+1;Austria;Condiments;1105.0
+2;Austria;Confections;834.0
+3;Austria;Produce;288.0
+4;Austria;Seafood;1242.0
+5;Belgium;Beverages;441.59999999999997
+6;Belgium;Confections;2592.0
+7;Belgium;Dairy Products;1138.0
+8;Belgium;Meat/Poultry;1248.0
+9;Belgium;Produce;1019.1999999999999
+10;Brazil;Beverages;1356.8000000000002
+11;Brazil;Condiments;1088.8
+12;Brazil;Confections;3001.5
+13;Brazil;Dairy Products;200.0
+14;Brazil;Meat/Poultry;1878.0
+15;Brazil;Produce;1484.0
+16;Brazil;Seafood;240.0
+17;Finland;Beverages;919.9999999999999
+18;Finland;Dairy Products;364.79999999999995
+19;Finland;Seafood;456.0
+20;France;Beverages;1104.0
+21;France;Condiments;336.0
+22;France;Dairy Products;1068.0
+23;France;Grains/Cereals;234.0
+24;France;Meat/Poultry;936.0
+25;Germany;Beverages;3914.4
+26;Germany;Condiments;325.5
+27;Germany;Confections;3166.3
+28;Germany;Dairy Products;3814.0
+29;Germany;Grains/Cereals;1388.0
+30;Germany;Meat/Poultry;1935.1999999999998
+31;Germany;Produce;2424.0
+32;Germany;Seafood;3105.8
+33;Ireland;Beverages;1344.0
+34;Ireland;Condiments;952.0
+35;Ireland;Confections;591.0
+36;Ireland;Dairy Products;1320.0
+37;Ireland;Seafood;608.0
+38;Italy;Beverages;43.2
+39;Italy;Condiments;408.0
+40;Italy;Confections;200.0
+41;Mexico;Confections;480.0
+42;Mexico;Seafood;972.0
+43;Spain;Condiments;504.0
+44;Spain;Confections;150.0
+45;Spain;Seafood;588.0
+46;Sweden;Beverages;761.2
+47;Sweden;Condiments;248.0
+48;Sweden;Dairy Products;660.0
+49;Sweden;Meat/Poultry;384.0
+50;Sweden;Seafood;492.5
+51;Switzerland;Beverages;358.0
+52;Switzerland;Confections;486.5
+53;Switzerland;Dairy Products;1320.0
+54;Switzerland;Meat/Poultry;403.2
+55;Switzerland;Produce;168.0
+56;Switzerland;Seafood;380.0
+57;UK;Beverages;516.8
+58;UK;Condiments;240.0
+59;USA;Beverages;1531.2
+60;USA;Condiments;204.0
+61;USA;Confections;3743.0
+62;USA;Dairy Products;3386.4
+63;USA;Meat/Poultry;2943.0
+64;USA;Produce;360.0
+65;USA;Seafood;1568.0
+66;Venezuela;Condiments;404.0
+67;Venezuela;Confections;1425.9
+68;Venezuela;Dairy Products;1585.6
