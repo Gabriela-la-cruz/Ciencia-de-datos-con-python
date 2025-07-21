@@ -37,5 +37,13 @@ FROM [Detalles de pedidos];
 
 -- Calcular un campo
 
-SELECT PrecioUnidad, Cantidad, (PrecioUnidad*Cantidad) as Importe
+SELECT PrecioUnidad, Cantidad,IdPedido, (PrecioUnidad*Cantidad) as Importe
 FROM [Detalles de pedidos];
+
+
+SELECT TOP 50 *
+FROM pedidos
+WHERE PaísDestinatario = 'Finlandia' or PaísDestinatario = 'Suiza';
+
+SELECT *
+FROM Categorías;

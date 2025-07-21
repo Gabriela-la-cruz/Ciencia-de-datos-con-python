@@ -18,4 +18,10 @@ fichero jupyter ejecuta codigos por celda
 el fichero texto no ejecuta nada 
 y el fichero python file ejecuta todo el codigo a la vez 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-7
+
+Para cargar una base de datos en sql server management, abres el programa y en database click derecho "new database" la nombras ya ceptar, luego sobre el nombre de la tabla 
+click derecho y "task" "import data" " seleccionar "microsoft access...." y en "browse" cargar los datos, netx y luego en choose a destination seleccionar "microsoft ole
+db provider.."
 
